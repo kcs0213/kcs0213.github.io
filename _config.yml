@@ -1,16 +1,15 @@
 # Site settings
-title: 기계인간 John Grib
-url: "https://johngrib.github.io"
+title: 기록 남기기
+url: "https://kcs0213.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    JK Blog
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: john.chu.kim@gmail.com
+author: John Kim
+profile: John
+github_username: kcs0213
 comment-support: utterances
 
 # Build settings
@@ -38,10 +37,10 @@ collections:
 
 # Comment Service
 disqus:
-  id: johngrib
-  shortname: johngrib
+  id: roundrush
+  shortname: roundrush
 utterances:
-  repo: johngrib/johngrib.github.io
+  repo: kcs0213/kcs0213.github.io
   issue-term: url
   label: Comment
   branch: master
@@ -53,9 +52,9 @@ google_analytics:
 google_adsense:
   client: SAMPLE-VALUE
 
-blame: "https://github.com/johngrib/johngrib.github.io/blame/master/_wiki"
-edit: "https://github.com/johngrib/johngrib.github.io/edit/master/_wiki"
-issue: "https://github.com/johngrib/johngrib.github.io/issues/new"
+blame: "https://github.com/kcs0213/kcs0213.github.io/blame/master/_wiki"
+edit: "https://github.com/kcs0213/kcs0213.github.io/edit/master/_wiki"
+issue: "https://github.com/kcs0213/johngrib.github.io/issues/new"
 
 timezone: "Asia/Seoul"
 
