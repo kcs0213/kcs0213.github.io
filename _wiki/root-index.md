@@ -36,4 +36,8 @@ regenerate: true
 
 ## [[devops]]
 
+## [[blog]]
+
+- [[/blog/client-relationship]]
+
 
