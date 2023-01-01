@@ -3,7 +3,7 @@ layout  : wiki
 title   : (책) 달리기를 말할 때 내가 하고 싶은 이야기
 summary : 달리기에 대한 찬양
 date    : 2023-01-01 13:45:29 +0900
-updated : 
+updated : 2023-01-01 15:00:00 +0900
 tag     : book
 toc     : true
 public  : true

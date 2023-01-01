@@ -3,7 +3,7 @@ layout  : wiki
 title   : (youtube) Managing Client Relationships as an Investment Banker, Lawyer or Consultant
 summary : Client Relationship에 관한 황금같은 조언
 date    : 2023-01-01 20:25:29 +0900
-updated : 
+updated : 2023-01-01 21:05:00 +0900
 tag     : blog
 parent  : [[/blog]]
 toc     : true

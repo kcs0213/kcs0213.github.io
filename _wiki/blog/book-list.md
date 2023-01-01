@@ -3,7 +3,7 @@ layout  : wiki
 title   : Consulting book list
 summary : 
 date    : 2023-01-01 20:25:29 +0900
-updated : 
+updated : 2023-01-01 21:00:00 +0900
 tag     : blog
 parent  : [[/blog]]
 toc     : true
