@@ -24,6 +24,7 @@ latex   : false
 * 단순히 고객 관계를 넘어 삶의 전반에 걸쳐 뼈가 되는 조언인듯.
 
 
+## Quote
 
 
 > "Covering clients is a learned skill; it is not an innate skill" 
