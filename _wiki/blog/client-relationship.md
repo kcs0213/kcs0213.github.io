@@ -13,19 +13,14 @@ latex   : false
 * TOC
 {:toc}
 
-
 ## Client Relationship에 관해
 
-
-* [Managing Client Relationships as an Investment Banker, Lawyer or Consultant](https://www.youtube.com/watch?v=z8kqCIxXTEw&ab_channel=UniversityofVirginiaSchoolofLaw)
-
-* Goldman Sachs의 Managing Director인 Jim Donovan이 Client Relationship에 관해 UVA에서 강의하는 내용이다. 
+* Goldman Sachs의 Managing Director인 Jim Donovan이 Client Relationship에 관해 UVA에서 강의하는 내용이다. [Managing Client Relationships as an Investment Banker, Lawyer or Consultant](https://www.youtube.com/watch?v=z8kqCIxXTEw&ab_channel=UniversityofVirginiaSchoolofLaw)
 
 * 단순히 고객 관계를 넘어 삶의 전반에 걸쳐 뼈가 되는 조언인듯.
 
 
 ## Quote
-
 
 > "Covering clients is a learned skill; it is not an innate skill" 
 
