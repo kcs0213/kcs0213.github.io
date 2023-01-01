@@ -32,7 +32,7 @@ regenerate: true
 
 ## [[book]]
 
-* [[/book/murakami-run]]
+- [[/book/murakami-run]]
 
 ## [[devops]]
 
