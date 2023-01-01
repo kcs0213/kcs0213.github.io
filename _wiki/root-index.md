@@ -30,3 +30,10 @@ regenerate: true
     </ul>
 </div>
 
+## [[book]]
+
+* [[/book/murakami-run]]
+
+## [[devops]]
+
+
