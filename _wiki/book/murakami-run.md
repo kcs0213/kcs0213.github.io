@@ -7,8 +7,8 @@ updated :
 tag     : book
 toc     : true
 public  : true
-parent  : [[book]]
-latex   : true
+parent  : [[/book]]
+latex   : false
 ---
 * TOC
 {:toc}
