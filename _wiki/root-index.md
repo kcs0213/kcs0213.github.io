@@ -34,8 +34,6 @@ regenerate: true
 
 - [[/book/murakami-run]]
 
-## [[devops]]
-
 ## [[blog]]
 
 - [[/blog/client-relationship]]
