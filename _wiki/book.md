@@ -7,8 +7,9 @@ updated : 2022-10-06 00:00:00 +0900
 tag     : book
 toc     : true
 public  : true
-parent  : index
+parent  : [[/root-index]]
 latex   : false
+comment : false
 ---
 
 * TOC
