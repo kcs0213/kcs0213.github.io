@@ -1,6 +1,6 @@
 ---
 layout  : wiki
-title   : Consulting book list
+title   : 2023 Book List
 summary : 
 date    : 2023-01-01 20:25:29 +0900
 updated : 2023-01-01 21:00:00 +0900
@@ -15,7 +15,7 @@ latex   : false
 
 
 
-## Consulting Book list
+## Consulting 
 
 
 - [ ] The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully
@@ -29,3 +29,6 @@ latex   : false
 - [ ] Million Dollar Consulting: The Professional’s Guide to Growing a Practice 
 - [ ] The Lords of Strategy: The Secret Intellectual History of the New Corporate World 
 - [ ] Case in Point: Complete Case Interview Preparation 
+
+
+## Tech
