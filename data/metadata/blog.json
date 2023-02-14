@@ -8,6 +8,7 @@
  "children": [
   "blog/blah",
   "blog/book-list",
-  "blog/client-relationship"
+  "blog/client-relationship",
+  "blog/music"
  ]
 }
