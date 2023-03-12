@@ -32,3 +32,8 @@ latex   : false
 
 
 ## Tech
+
+
+## Org
+
+- [X] 네이비씰 승리의 기술
