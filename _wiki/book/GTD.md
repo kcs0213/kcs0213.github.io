@@ -2,8 +2,8 @@
 layout  : wiki
 title   : (책] Getthing Things Done
 summary : Getting Things Done
-date    : 2025-01-03 20:25:29 +0900
-date    : 2025-01-05 20:25:29 +0900
+date    : 2025-01-03 10:25:29 +0900
+update    : 2025-01-05 10:25:29 +0900
 tag     : book
 parent  : [[/book]]
 toc     : true
